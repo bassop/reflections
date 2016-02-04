@@ -11,3 +11,7 @@ en el area de ensayo se puedo observar si realmente es el cambio que necesita co
 ¿Cuales son algunas situacion donde las ramas serian utiles para manterer su historial organizado? ¿como ayuda los branch?
 
 las ramas son utiles cuando se necesita hacer una version que no se sabe si funcionara puede ser experimental, otro idioma , etc, asi se puede probar sin afectar las versiones que estamos trabajando.
+
+¿Como los diagramas ayudas a representar las ramas?
+
+los diagramas son necesararios y tuliles por que mediante las lineas que se conectar puedes ver todo el proceso y en que lgares se encuentra.
