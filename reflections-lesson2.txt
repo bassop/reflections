@@ -1,0 +1,6 @@
+¿Que pasa cuando se inicializa un proyecto... por que necesita hacerlo?
+
+cuando se inicializa un proyecto se crea un .git en la carpeta inicializada es importante hacerlo porque eso no mostrara todo el historial de los archivos agregados.
+
+¿Como es el area de trabajo difererente al directorio?
+en el area de trabajop estan en una estapa listo para hacer commit solo los archivos que esten en ese estado podran hacer commit  en cambio los archivos que estan en el directorio no.
