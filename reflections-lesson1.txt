@@ -1,0 +1,13 @@
+Refleccion 1 
+
+¿Como puede utilizar el commando git log y git diff para ver el historial de los archivos?
+
+el comando git log muestra todos los commit que se hicieron en el proyecto con un Id unico para cada commit y el comando git diff muestra lo que se realizo entre 2 commit como lineas nuevas que se elimino o que se modifico.
+
+¿como podria usar el control de versiones para que usted se sienta más confiable en hacer cambio?
+
+el control de versiones ayuda a hacer cambios sin preocupaciones porque tranquilamete podemos volver a versiones especificas.permitiendo arreglar cualquier falla.
+
+¿Ahora que ya configuro git que es lo que desea hacer?
+
+ahora que esta todo configurado nos necesitamos practicar 100%
