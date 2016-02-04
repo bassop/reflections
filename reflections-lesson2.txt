@@ -4,3 +4,6 @@ cuando se inicializa un proyecto se crea un .git en la carpeta inicializada es i
 
 ¿Como es el area de trabajo difererente al directorio?
 en el area de trabajop estan en una estapa listo para hacer commit solo los archivos que esten en ese estado podran hacer commit  en cambio los archivos que estan en el directorio no.
+
+¿Como puede ayudar el area de ensayo que tiene un commit por cambio logio?
+en el area de ensayo se puedo observar si realmente es el cambio que necesita con el comando git diff --staged esto permirte saber el cambio que está a punto de hacer commit.
