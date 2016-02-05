@@ -26,3 +26,12 @@ utilizar uno en lugar de otro?
     que desee trabajar en ese repositorio localmente en lugar de utilizar el GitHub
     sitio web. Me tenedor un repositorio en GitHub cuando quiero hacer cambios en ese
     pública del repositorio, pero no tengo permiso para modificar el original.
+
+    ¿Cuál es el beneficio de tener una copia del último estado conocido de la distancia
+almacenado localmente?
+
+    Si estoy a punto de ir sin acceso a Internet por un tiempo, por ejemplo para trabajar
+    en un avión, puedo actualizar mi copia local antes de salir. Puedo hacer esto incluso
+    si no estoy listo para fusionar esos cambios dentro de mis propias ramas todavía. Entonces si yo
+    quiera, puedo realizar la combinación, mientras que fuera de línea, o que necesita saber lo que el
+    versión remota es en algún momento, tengo una manera fácil de acceder a él.
