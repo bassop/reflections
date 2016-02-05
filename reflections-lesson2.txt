@@ -19,3 +19,10 @@ los diagramas son necesararios y tuliles por que mediante las lineas que se cone
 ¿Cuales son los resultados de 2 ramas juntos? ¿por que representamos los diagramas en forma de lo que hacemos?
 
 al unir las 2 ramas se juntan los commit de las 2 ultimas ramas uniendo el codigo para poder trabajarlo en una sola rama general. trabajamos los diagramas de esta forma para facilitarnos el aprendizaje
+
+¿Cuales son los pro y los contras de la combinacion automatica y manual de git ?
+Pros:
+* Ahorra tiempo, sobre todo cuando cada combinación no es trivial en conflicto.
+* Hace que usted se concentra en los cambios que en realidad contienen los conflictos.
+contras:
+* No se puede pensar de las que aparezcan definidos. Tal vez puede hacer que sea más fácil pasar por alto la situación potencialmente peligrosa donde dos personas están trabajando en el mismo archivo al mismo tiempo.
