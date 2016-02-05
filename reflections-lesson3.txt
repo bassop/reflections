@@ -1,1 +1,2 @@
-refleccion 1
+¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo local?
+debemos tener un repositorio remoto por si necesitamos hacer cambios desde cualquier parte para luego actualizarlo sin problemas
