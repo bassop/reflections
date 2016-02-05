@@ -15,3 +15,7 @@ las ramas son utiles cuando se necesita hacer una version que no se sabe si func
 ¿Como los diagramas ayudas a representar las ramas?
 
 los diagramas son necesararios y tuliles por que mediante las lineas que se conectar puedes ver todo el proceso y en que lgares se encuentra.
+
+¿Cuales son los resultados de 2 ramas juntos? ¿por que representamos los diagramas en forma de lo que hacemos?
+
+al unir las 2 ramas se juntan los commit de las 2 ultimas ramas uniendo el codigo para poder trabajarlo en una sola rama general. trabajamos los diagramas de esta forma para facilitarnos el aprendizaje
