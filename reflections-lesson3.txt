@@ -1,2 +1,10 @@
 ¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo local?
 debemos tener un repositorio remoto por si necesitamos hacer cambios desde cualquier parte para luego actualizarlo sin problemas
+
+¿Por qué puede querer sacar siempre los cambios manualmente en lugar de tener Git
+mantenerse automáticamente actualizados con su repositorio remoto?
+
+    Me gusta tirar de cambios manual porque de esa manera, cuando estoy trabajando en el código,
+    no cambia sin que yo esperaba. Por ejemplo, si conozco a la nueva
+    versión de un cierto código se rompe, puede ser que no quiero tirar de que el cambio hasta que
+    el error se corrige.
