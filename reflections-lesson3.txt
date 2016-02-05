@@ -8,3 +8,21 @@ mantenerse automáticamente actualizados con su repositorio remoto?
     no cambia sin que yo esperaba. Por ejemplo, si conozco a la nueva
     versión de un cierto código se rompe, puede ser que no quiero tirar de que el cambio hasta que
     el error se corrige.
+
+    Describir las diferencias entre las horquillas, clones, y las ramas. ¿Cuándo
+utilizar uno en lugar de otro?
+
+    Forks, clones, y las ramas son todas las formas de añadir nuevos cambios sin
+    que afecta a la versión existente. Con ramas de los nuevos cambios se añaden en
+    el mismo repositorio. Bifurcan y la clonación tanto copiar un repositorio entero a
+    una nueva ubicación. La diferencia entre la bifurcación y la clonación es que se bifurcan
+    es una construcción especial realizado por GitHub. Sólo se puede bifurcar un GitHub
+    repositorio a otro lugar en GitHub, mientras que se puede clonar cualquier Git
+    repositorio para cualquier lugar que tenga acceso.
+
+    Yo uso de ramificación para la mayoría de los casos en que sea necesario añadir nuevos cambios en una
+    repositorio mientras se mantiene una referencia fácil a una versión anterior, especialmente
+    al colaborar con otras personas. Puedo clonar un repositorio en GitHub cuando
+    que desee trabajar en ese repositorio localmente en lugar de utilizar el GitHub
+    sitio web. Me tenedor un repositorio en GitHub cuando quiero hacer cambios en ese
+    pública del repositorio, pero no tengo permiso para modificar el original.
